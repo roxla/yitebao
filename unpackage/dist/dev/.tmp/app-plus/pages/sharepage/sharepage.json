@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "分享赢好礼",
+  "navigationBarBackgroundColor": "#02C0D0",
+  "navigationBarTextStyle": "white",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "back",
+        "color": "white",
+        "float": "left"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
